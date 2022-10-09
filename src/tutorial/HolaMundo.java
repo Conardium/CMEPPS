@@ -4,10 +4,7 @@ public class HolaMundo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hola CMEPPS!");
-		
-		String name="Manuel";
-		System.out.println("Bienvenido, " + name);
+		System.out.println("Esta es la rama 2 que surge de la rama maestra");
 	}
 
 }
